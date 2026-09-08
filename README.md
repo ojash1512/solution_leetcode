@@ -17,4 +17,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ojash1512/solution_leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3870-count-commas-in-range](https://github.com/ojash1512/solution_leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 <!---LeetCode Topics End-->
