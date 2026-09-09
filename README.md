@@ -26,4 +26,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/ojash1512/solution_leetcode/tree/main/0189-rotate-array/) | Medium |
 | [3870-count-commas-in-range](https://github.com/ojash1512/solution_leetcode/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/ojash1512/solution_leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 <!---LeetCode Topics End-->
