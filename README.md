@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/ojash1512/solution_leetcode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ojash1512/solution_leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ojash1512/solution_leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0136-single-number](https://github.com/ojash1512/solution_leetcode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/ojash1512/solution_leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/ojash1512/solution_leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ojash1512/solution_leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -32,4 +33,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ojash1512/solution_leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/ojash1512/solution_leetcode/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
