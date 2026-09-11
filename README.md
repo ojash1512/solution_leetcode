@@ -15,10 +15,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/ojash1512/solution_leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ojash1512/solution_leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ojash1512/solution_leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/ojash1512/solution_leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ojash1512/solution_leetcode/tree/main/0001-two-sum/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/ojash1512/solution_leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +66,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/ojash1512/solution_leetcode/tree/main/0075-sort-colors/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ojash1512/solution_leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ojash1512/solution_leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
