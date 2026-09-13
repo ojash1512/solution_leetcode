@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/ojash1512/solution_leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/ojash1512/solution_leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ojash1512/solution_leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0835-image-overlap](https://github.com/ojash1512/solution_leetcode/tree/main/0835-image-overlap/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ojash1512/solution_leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ojash1512/solution_leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/ojash1512/solution_leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -81,4 +82,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ojash1512/solution_leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0835-image-overlap](https://github.com/ojash1512/solution_leetcode/tree/main/0835-image-overlap/) | Medium |
 <!---LeetCode Topics End-->
