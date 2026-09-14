@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ojash1512/solution_leetcode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ojash1512/solution_leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0053-maximum-subarray](https://github.com/ojash1512/solution_leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/ojash1512/solution_leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ojash1512/solution_leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0136-single-number](https://github.com/ojash1512/solution_leetcode/tree/main/0136-single-number/) | Easy |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ojash1512/solution_leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ojash1512/solution_leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -97,4 +99,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/ojash1512/solution_leetcode/tree/main/0836-rectangle-overlap/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ojash1512/solution_leetcode/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
