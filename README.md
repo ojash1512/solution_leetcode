@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/ojash1512/solution_leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/ojash1512/solution_leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/ojash1512/solution_leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ojash1512/solution_leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ojash1512/solution_leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ojash1512/solution_leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ojash1512/solution_leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -103,4 +105,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ojash1512/solution_leetcode/tree/main/0053-maximum-subarray/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ojash1512/solution_leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ojash1512/solution_leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 <!---LeetCode Topics End-->
