@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/ojash1512/solution_leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ojash1512/solution_leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/ojash1512/solution_leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/ojash1512/solution_leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/ojash1512/solution_leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/ojash1512/solution_leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ojash1512/solution_leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ojash1512/solution_leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/ojash1512/solution_leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/ojash1512/solution_leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/ojash1512/solution_leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/ojash1512/solution_leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
