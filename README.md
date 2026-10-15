@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/ojash1512/solution_leetcode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/ojash1512/solution_leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/ojash1512/solution_leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/ojash1512/solution_leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/ojash1512/solution_leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ojash1512/solution_leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ojash1512/solution_leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/ojash1512/solution_leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0835-image-overlap](https://github.com/ojash1512/solution_leetcode/tree/main/0835-image-overlap/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ojash1512/solution_leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Geometry
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/ojash1512/solution_leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ojash1512/solution_leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/ojash1512/solution_leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Segment Tree
