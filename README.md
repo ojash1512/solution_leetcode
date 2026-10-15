@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/ojash1512/solution_leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/ojash1512/solution_leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ojash1512/solution_leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0118-pascals-triangle](https://github.com/ojash1512/solution_leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ojash1512/solution_leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/ojash1512/solution_leetcode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/ojash1512/solution_leetcode/tree/main/0169-majority-element/) | Easy |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/ojash1512/solution_leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/ojash1512/solution_leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/ojash1512/solution_leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0118-pascals-triangle](https://github.com/ojash1512/solution_leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ojash1512/solution_leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/ojash1512/solution_leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ojash1512/solution_leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
